@@ -17,6 +17,7 @@ function About() {
 
                 Yet, we're not content with mere tradition. Our chefs are culinary visionaries, constantly pushing the boundaries of what's possible within the realm of pizza. Their creative prowess leads to the birth of our signature gourmet masterpieces, where unexpected pairings and daring toppings unite to create an experience that is both nostalgic and excitingly new.
 
+                Yet, we're not content with mere tradition. Our chefs are culinary visionaries, constantly pushing the boundaries of what's possible within the realm of pizza. Their creative prowess leads to the birth of our signature gourmet masterpieces, where unexpected pairings and daring toppings unite to create an experience that is both nostalgic and excitingly new.
                 </p>
         </div>
     </div>
