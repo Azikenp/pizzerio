@@ -9,7 +9,7 @@ function About() {
         <div className="aboutBottom">
             <h1>About Us</h1>
             <p>
-                Welcome to Pizzerrios Pizza, where every slice tells a story of passion, flavor, and community.
+                Welcome to Aziken's Pizza, where every slice tells a story of passion, flavor, and community.
 
                 At the heart of our pizzeria is an unwavering dedication to crafting the perfect pie, one that transcends the boundaries of taste and imagination. Our journey began with a simple dream: to create a haven where friends and families can gather to savor the timeless joy of sharing a delicious meal together.
 
