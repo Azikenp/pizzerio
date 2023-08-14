@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from '../assets/pizzaLogo.png'
 import { Link } from 'react-router-dom'
-// import ReorderIcon from '@mui/icons-material/Reorder';
+import ReorderIcon from '@mui/icons-material/Reorder';
 import '../styles/Navbar.css'
 import { useState } from 'react'
 
@@ -29,7 +29,7 @@ function Navbar() {
             <Link to='/about'>About</Link>
             <Link to='/contact'>Contact</Link>
             <button onClick={toggleNavbar}>
-              {/* <ReorderIcon /> */}
+              <ReorderIcon />
             </button>
         </div>
     </div>
